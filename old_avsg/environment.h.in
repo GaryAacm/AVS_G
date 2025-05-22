@@ -1,0 +1,2 @@
+const char* bsc_path = "@BSC_PATH@";
+const char* parallel_command_path = "@PARALLEL_COMMANDS_PATH@";
